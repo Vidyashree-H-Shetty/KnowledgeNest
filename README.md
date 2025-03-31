@@ -64,6 +64,12 @@ GOOGLE_API_KEY=
 
 ```
 
+Create a `.env` file in the **videosdk** folder with the following:
+```env
+REACT_APP_VIDEOSDK_TOKEN=
+```
+
+
 ### **4. Run the project**
 #### **Start the backend server:**
 ```bash
